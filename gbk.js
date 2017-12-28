@@ -1,0 +1,1 @@
+document.write('这个是gbk.js文件输出内容<br>')

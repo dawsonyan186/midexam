@@ -1,0 +1,3 @@
+@media print { 
+ .myelement1{ display: none !important; }
+}
